@@ -170,7 +170,7 @@ h2 {
   font-size: 30px;
 }
 h3 {
-  font-size: 24px;
+  font-size: 18px;
 }
 p {
   margin: 0 0 10px;
@@ -214,10 +214,6 @@ ul {
     width: 1170px;
   }
 }
-.row {
-  margin-right: -15px;
-  margin-left: -15px;
-}
 .col-md-8,
 .col-sm-12,
 .col-sm-3,
@@ -247,6 +243,8 @@ ul {
   }
   .col-sm-6 {
     width: 50%;
+    position: relative;
+    right: 43px;
   }
   .col-sm-4 {
     width: 33.33333333%;
