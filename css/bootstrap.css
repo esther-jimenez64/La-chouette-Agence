@@ -847,6 +847,8 @@ caption {
 @media (min-width: 768px) {
   .navbar-header {
     float: left;
+    position: relative;
+    left: 35px;
   }
 }
 .navbar-collapse {
